@@ -2,6 +2,10 @@
 
 ***
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.aryon@gmail.com)
+
+***
+
 I'm a random person who is trying to survive on this beautiful world!
 - :telescope: I’m currently working on [website-projects](https://github.com/arriaoedu123/website-projects)
 - 🌱 I’m currently learning HTML, CSS and JavaScript
