@@ -56,7 +56,7 @@ I'm a random person who is trying to survive on this beautiful world!
 ***
 
 <p align="center">
-   <img src="https://github.com/arriaoedu123/arriaoedu123/blob/output/github-contribution-grid-snake.svg"/>
+   <img width="100%" src="https://github.com/arriaoedu123/arriaoedu123/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ***
