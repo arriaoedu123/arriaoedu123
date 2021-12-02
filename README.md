@@ -1,7 +1,7 @@
-<p>
-   <img width="49.7%" src="https://user-images.githubusercontent.com/73148019/142718301-5ac82e93-04d0-4316-a364-42f4c13f051d.gif"/>
+<p align="center">
+   <img width="49%" src="https://user-images.githubusercontent.com/73148019/142718301-5ac82e93-04d0-4316-a364-42f4c13f051d.gif"/>
    
-   <img width="49.7%" src="https://user-images.githubusercontent.com/73148019/142718301-5ac82e93-04d0-4316-a364-42f4c13f051d.gif"/>
+   <img width="49%" src="https://user-images.githubusercontent.com/73148019/142718301-5ac82e93-04d0-4316-a364-42f4c13f051d.gif"/>
 </p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.aryon@gmail.com)
