@@ -8,7 +8,7 @@
 
 ***
 
-## Hello, I am <a href="https://arriaoedu123.github.io/portfolio-website/">Aryon</a> 👋
+## Hello, I am <a href="https://arriaoedu123.github.io/portfolio-website/">Aryon</a> <img width="25px" src="https://user-images.githubusercontent.com/73148019/144666718-3b38bc9c-f2b4-4028-acfb-4df434782a0a.gif">
 
 ***
 
