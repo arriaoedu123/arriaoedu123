@@ -54,9 +54,3 @@ I'm a random person who is trying to survive on this beautiful world!
 *NOTE: "Most used languages" and "GitHub Stats" does not indicate my skills level*
 
 ***
-
-<p align="center">
-   <img width="100%" src="https://github.com/arriaoedu123/arriaoedu123/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
-***
