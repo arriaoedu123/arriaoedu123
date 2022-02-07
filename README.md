@@ -16,7 +16,7 @@
 I'm a random person who is trying to survive on this beautiful world!
 - :telescope: I’m currently working on [website-projects](https://github.com/arriaoedu123/website-projects)
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💬 Ask me about whatever you want [here](https://github.com/arriaoedu123/arriaoedu123/issues)
+- 💬 Ask me about whatever you want [here](mailto:contato.aryon@gmail.com)
 - ⚡ Fun fact: I like to play games
 
 * **Languages:**<br>
