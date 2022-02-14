@@ -26,6 +26,7 @@ I'm a random person who is trying to survive on this beautiful world!
 <code><img height="30" width="30" alt="JavaScript" src="https://user-images.githubusercontent.com/73148019/125104836-30a84000-e0b4-11eb-988d-29c89c3432e9.png"/></code>
 <code><img height="30" width="30" alt="MySQL" src="https://user-images.githubusercontent.com/73148019/142671480-c1474787-f1a8-4f04-97ee-848c744e87cb.png"/></code>
 <code><img height="30" width="30" alt="Java" src="https://user-images.githubusercontent.com/73148019/142671692-4464e823-6eac-4d19-9677-4ebc5f9da0a4.png"/></code>
+<code><img height="30" width="30" alt="PHP" src="https://user-images.githubusercontent.com/73148019/153861862-e3051e0f-996a-4c3f-8ff5-d772ddec43a9.png"/></code>
 
 * **Tools:**<br>
 
@@ -34,6 +35,7 @@ I'm a random person who is trying to survive on this beautiful world!
 <code><img height="30" width="30" alt="Git" src="https://user-images.githubusercontent.com/73148019/142672736-05f1e21f-06ba-4561-898a-d6cbb38f49ce.png"/></code>
 <code><img height="30" width="30" alt="GitHub" src="https://user-images.githubusercontent.com/73148019/125107978-c85b5d80-e0b7-11eb-998a-badf0b56dc63.png"/></code>
 <code><img height="30" width="30" alt="MySQL Workbench" src="https://user-images.githubusercontent.com/73148019/142672397-68362e6f-5ec0-40c9-b458-3c710adf346a.png"/></code>
+<code><img height="30" width="30" alt="XAMPP" src="https://user-images.githubusercontent.com/73148019/153862060-5333e765-c901-4694-bea7-dc9bdb01aac5.png"/></code>
 <code><img height="30" width="30" alt="Eclipse IDE" src="https://user-images.githubusercontent.com/73148019/142672226-67be2daf-8f3d-444c-b4ff-382044a369c2.png"/></code>
 <code><img height="30" width="30" alt="Adobe Photoshop" src="https://user-images.githubusercontent.com/73148019/142672802-e1a3bb0c-77ca-4f1a-b198-7e2489f65c0f.png"/></code>
 
