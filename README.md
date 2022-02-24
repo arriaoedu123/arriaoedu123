@@ -28,6 +28,13 @@ I'm a random person who is trying to survive on this beautiful world!
 <code><img height="30" width="30" alt="Java" src="https://user-images.githubusercontent.com/73148019/142671692-4464e823-6eac-4d19-9677-4ebc5f9da0a4.png"/></code>
 <code><img height="30" width="30" alt="PHP" src="https://user-images.githubusercontent.com/73148019/153861862-e3051e0f-996a-4c3f-8ff5-d772ddec43a9.png"/></code>
 
+* **Frameworks:**<br>
+
+<code><img height="30" width="30" alt="Bootstrap 5" src="https://user-images.githubusercontent.com/73148019/155525602-611a13d4-21b4-41d1-9486-096dfe693605.png"/></code>
+<code><img height="30" width="30" alt="NodeJS" src="https://user-images.githubusercontent.com/73148019/155524381-06c37a35-4a73-4287-876b-ef37356a3b61.png"/></code>
+<code><img height="30" width="30" alt="React" src="https://user-images.githubusercontent.com/73148019/155524409-4005e5c9-035a-4a83-acc6-e945f8041297.png"/></code>
+<code><img height="30" width="30" alt="Ionic" src="https://user-images.githubusercontent.com/73148019/155524437-b18c911e-0368-4618-87a6-95ef2ed55a87.png"/></code>
+
 * **Tools:**<br>
 
 <code><img height="30" width="30" alt="VS Code" src="https://user-images.githubusercontent.com/73148019/125107509-4a975200-e0b7-11eb-85ee-17d5606f5e70.png"/></code>
@@ -37,6 +44,7 @@ I'm a random person who is trying to survive on this beautiful world!
 <code><img height="30" width="30" alt="MySQL Workbench" src="https://user-images.githubusercontent.com/73148019/142672397-68362e6f-5ec0-40c9-b458-3c710adf346a.png"/></code>
 <code><img height="30" width="30" alt="XAMPP" src="https://user-images.githubusercontent.com/73148019/153862060-5333e765-c901-4694-bea7-dc9bdb01aac5.png"/></code>
 <code><img height="30" width="30" alt="Eclipse IDE" src="https://user-images.githubusercontent.com/73148019/142672226-67be2daf-8f3d-444c-b4ff-382044a369c2.png"/></code>
+<code><img height="30" width="30" alt="Replit" src="https://user-images.githubusercontent.com/73148019/155524969-e2b611bd-8286-44ef-a39d-4acfdb422b5f.png"/></code>
 <code><img height="30" width="30" alt="Adobe Photoshop" src="https://user-images.githubusercontent.com/73148019/142672802-e1a3bb0c-77ca-4f1a-b198-7e2489f65c0f.png"/></code>
 
 ***
