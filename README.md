@@ -1,7 +1,6 @@
-<p align="center">
-   <img width="49%" src="https://user-images.githubusercontent.com/73148019/142718301-5ac82e93-04d0-4316-a364-42f4c13f051d.gif"/>
-   
-   <img width="49%" src="https://user-images.githubusercontent.com/73148019/142718301-5ac82e93-04d0-4316-a364-42f4c13f051d.gif"/>
+<p>
+   <img width="100%"src="https://user-images.githubusercontent.com/73148019/158178799-6046364e-94aa-404b-9d0e-7ad21b7a7951.gif"/>
+
 </p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.aryon@gmail.com)
@@ -24,7 +23,7 @@ I'm a random person who is trying to survive on this beautiful world!
 <code><img height="30" width="30" alt="HTML5" title="HTML5" src="https://user-images.githubusercontent.com/73148019/125107390-29366600-e0b7-11eb-8227-aed1f0f1ae26.png"/></code>
 <code><img height="30" width="30" alt="CSS3" title="CSS3" src="https://user-images.githubusercontent.com/73148019/125107621-67cc2080-e0b7-11eb-8ab6-bff8056b1505.png"/></code>
 <code><img height="30" width="30" alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/73148019/125104836-30a84000-e0b4-11eb-988d-29c89c3432e9.png"/></code>
-<code><img height="30" width="30" alt="MySQL" title="MySQL" src="https://user-images.githubusercontent.com/73148019/142671480-c1474787-f1a8-4f04-97ee-848c744e87cb.png"/></code>
+<code><img height="30" width="30" alt="SQL" title="SQL" src="https://user-images.githubusercontent.com/73148019/158174629-60a0aa85-1dfa-47e7-87ac-c7e6b13a6260.png"/></code>
 <code><img height="30" width="30" alt="Java" title="Java" src="https://user-images.githubusercontent.com/73148019/142671692-4464e823-6eac-4d19-9677-4ebc5f9da0a4.png"/></code>
 <code><img height="30" width="30" alt="PHP" title="PHP" src="https://user-images.githubusercontent.com/73148019/153861862-e3051e0f-996a-4c3f-8ff5-d772ddec43a9.png"/></code>
 <code><img height="30" width="30" alt="C++" title="C++" src="https://user-images.githubusercontent.com/73148019/157451016-1fb68a1f-43c0-4287-8fb1-da632384564c.png"/></code>
