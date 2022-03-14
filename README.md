@@ -40,7 +40,7 @@ I'm a random person who is trying to survive on this beautiful world!
 <code><img height="30" width="30" alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/73148019/125107509-4a975200-e0b7-11eb-85ee-17d5606f5e70.png"/></code>
 <code><img height="30" width="30" alt="Sublime Text" title="Sublime Text" src="https://user-images.githubusercontent.com/73148019/125107574-5aaf3180-e0b7-11eb-9b73-667e95cd2a8a.png"/></code>
 <code><img height="30" width="30" alt="Git" title="Git" src="https://user-images.githubusercontent.com/73148019/142672736-05f1e21f-06ba-4561-898a-d6cbb38f49ce.png"/></code>
-<code><img height="30" width="30" alt="GitHub" title="GithHub" src="https://user-images.githubusercontent.com/73148019/125107978-c85b5d80-e0b7-11eb-998a-badf0b56dc63.png"/></code>
+<code><img height="30" width="30" alt="GitHub" title="GitHub" src="https://user-images.githubusercontent.com/73148019/125107978-c85b5d80-e0b7-11eb-998a-badf0b56dc63.png"/></code>
 <code><img height="30" width="30" alt="MySQL Workbench" title="MySQL Workbench" src="https://user-images.githubusercontent.com/73148019/142672397-68362e6f-5ec0-40c9-b458-3c710adf346a.png"/></code>
 <code><img height="30" width="30" alt="XAMPP" title="XAMPP" src="https://user-images.githubusercontent.com/73148019/153862060-5333e765-c901-4694-bea7-dc9bdb01aac5.png"/></code>
 <code><img height="30" width="30" alt="Eclipse IDE" title="Eclipse IDE" src="https://user-images.githubusercontent.com/73148019/142672226-67be2daf-8f3d-444c-b4ff-382044a369c2.png"/></code>
