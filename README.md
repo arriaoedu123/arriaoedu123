@@ -13,8 +13,8 @@
 ***
 
 I'm a random person who is trying to survive on this beautiful world!
-- :telescope: I’m currently working on [php-projects](https://github.com/arriaoedu123/php-projects)
-- 🌱 I’m currently learning PHP
+- :telescope: I’m currently working on [projeto-integrador-senac](https://github.com/arriaoedu123/projeto-integrador-senac)
+- 🌱 I’m currently learning Java WEB
 - 💬 Ask me about whatever you want [here](mailto:contato.aryon@gmail.com)
 - ⚡ Fun fact: I like to play games
 
