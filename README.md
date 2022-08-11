@@ -34,6 +34,7 @@ I'm a random person who is trying to survive on this beautiful world!
 <code><img height="30" width="30" alt="Bootstrap 5" title="Bootstrap 5" src="https://user-images.githubusercontent.com/73148019/155525602-611a13d4-21b4-41d1-9486-096dfe693605.png"/></code>
 <code><img height="30" width="30" alt="NodeJS" title="NodeJS" src="https://user-images.githubusercontent.com/73148019/155524381-06c37a35-4a73-4287-876b-ef37356a3b61.png"/></code>
 <code><img height="30" width="30" alt="React" title="React" src="https://user-images.githubusercontent.com/73148019/155524409-4005e5c9-035a-4a83-acc6-e945f8041297.png"/></code>
+<code><img height="30" width="30" alt="Nextjs" title="Nextjs" src="https://user-images.githubusercontent.com/73148019/184239920-fcf5a837-f39f-40b8-a8b5-e684a65d38dc.png"/></code>
 <code><img height="30" width="30" alt="Ionic" title="Ionic" src="https://user-images.githubusercontent.com/73148019/155524437-b18c911e-0368-4618-87a6-95ef2ed55a87.png"/></code>
 
 * **Tools:**<br>
